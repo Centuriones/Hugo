@@ -6,7 +6,7 @@
 
 This portfolio contains my reflections and my findings while participating **Cyber Security: An Offensive Mindset**.
 
-###What do I want to get out of this unit?
+### What do I want to get out of this unit?
 
 This portfolio contains my reflections and my findings while participating Cyber Security: An Offensive Mindset. What do I want to get out of this unit?
 
