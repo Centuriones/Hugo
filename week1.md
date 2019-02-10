@@ -5,7 +5,13 @@
 
 Today we got introduced to the studio, and how the studio was going to run in the next 4 weeks. I felt very excited to start this studio as it will help me learn more of the basics and help me understand where I need to go for this year. I meet my team, and we were assigned a presentation to do. We spent an hour researching what topics we would like to talk about regarding cyber security. 
 
+![Picture](/images/teams1.PNG)
 
+The topic we picked was an article about SYN Floods. This was an intresting topic for us to do, because personally I wasn't sure what a SYN Flood was. It was fun researching and understanding the how it works and its effect on a business. I learnt that a SYN Flood, is a DDOS attack which targets avalabie ports and sends constant SYN packets. It exausts resources like the CPU on the server as the server is constantly expecting a connection to the attacker. 
+
+We made a powerpoint for a presentation and started working on it.
+
+![Picture](/images/teams2.PNG)
 
 ### Reflection on 6/02/2019
 
