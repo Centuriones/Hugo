@@ -1,5 +1,6 @@
 # Week 1
 
+[Home](./home.md)
 [Week 1](./week1.md)
 [Week 2](./week2.md)
 [Group Reflection](./group_reflection.md)
