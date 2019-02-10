@@ -24,3 +24,15 @@ Today was the day to do our presentations. I was feeling confident in our team's
 Today I was working on my static website as well, I had a lot of troubles with Hugo as I couldn't get the page to run locally. So I decided that I'll just make a GitHub page, for now, just to keep my portfolio up for now. I want to go back to Hugo and give it a proper shot, as I do like the templates and just the general look of the sites. I also want to learn Hugo, so I can help my Father with his website.
 
 ![Picture](/images/github.PNG)
+
+### Reflection on 8/02/2019
+
+Today we presented what we were doing this week and how we felt, and our thoughts. I said that I was working on my Github pages, and stated my concerns with my ability with presenting, and it was nice to know that other people in the class also had their concerns with public speaking. 
+
+We practiced web pentration on a CTF that was made by OWSAP. The website was a online shop selling juice. The challange I had the most trouble with was gaining admin rights. I knew it was an SQL injection, but since I couldn't google properly to find the answer I was looking for, and also I haven't done SQL since 2016, it took a while. The SQL injection was very intresting and learning it again was very fun.
+
+SQL injection I did eventually after a while, and some research was the following logic. 
+
+```MySQL
+1' OR 1=1--
+```
