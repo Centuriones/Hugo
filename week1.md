@@ -27,9 +27,9 @@ Today I was working on my static website as well, I had a lot of troubles with H
 
 ### Reflection on 8/02/2019
 
-Today we presented what we were doing this week and how we felt, and our thoughts. I said that I was working on my Github pages, and stated my concerns with my ability with presenting, and it was nice to know that other people in the class also had their concerns with public speaking. 
+Today we presented what we were doing this week and how we felt, and our thoughts. I said that I was working on my Github pages, and stated my concerns with my ability with presenting, and it was nice to know that other people in the class also had their concerns with public speaking.
 
-We practiced web pentration on a CTF that was made by OWSAP. The website was a online shop selling juice. The challange I had the most trouble with was gaining admin rights. I knew it was an SQL injection, but since I couldn't google properly to find the answer I was looking for, and also I haven't done SQL since 2016, it took a while. The SQL injection was very intresting and learning it again was very fun.
+We practiced web penetration on a CTF that was made by OWSAP. The website was an online shop selling juice. The challenge I had the most trouble with was gaining admin rights. I knew it was an SQL injection, but since I couldn't google properly to find the answer I was looking for, and also I haven't done SQL since 2016, it took a while. The SQL injection was very interesting and learning it again was very fun.
 
 SQL injection I did eventually after a while, and some research was the following logic. 
 
@@ -43,17 +43,17 @@ The following query will be sent to the database server and be treated as:
 SELECT id FROM users WHERE email=’email’ AND password=’password’ OR 1=1’
 ```
 
-Since the login will try to find in their database if the following email and password was the one you inputed. If that isn't found it will run the 1=1-- command. Since an OR statement only needs to be 1 of the following statements to be true. It will treat your code as a valid statement and log you in. 
+Since the login will try to find in their database if the following email and password was the one you inputted. If that isn't found it will run the 1=1-- command. Since an OR statement only needs to be 1 of the following statements to be true. It will treat your code as a valid statement and log you in.
 
 ![Picture](/images/SQL_Injection.PNG)
 
-After learning this, I decided to try some other ways to get admin rights. Corey my group member showed me a shorter way to gain admin rights which was the following:
+After learning this, I decided to try some other ways to get admin rights. Corey my group member showed me a shorter way to gain admin rights which were the following:
 
 ![Picture](/images/SQL_Injection_2.PNG)
 
-This works aswell because the following query is just asking to check if the OR statement 1=1 is true. And since 1=1 is true, it gives you admin access.
+This works as well because the following query is just asking to check if the OR statement 1=1 is true. And since 1=1 is true, it gives you admin access.
 
-One way I found on my own, is just writing the admin's email. I found an order confirmation which was done by an admin. I found this by acessing their FTP server. 
+One way I found on my own, is just writing the admin's email. I found an order confirmation which was done by an admin. I found this by accessing their FTP server.
 
 ![Picture](/images/ftp1.PNG)
 
@@ -65,6 +65,6 @@ Just by writing a simple query:
 admin@juice-sh.op';
 ```
 
-So since the email is true, it allows me to access the admins email. Giving me admin rights!
+So since the email is true, it allows me to access the admin's email. Giving me admin rights!
 
 ![Picture](/images/SQL_Injection_3.PNG)
