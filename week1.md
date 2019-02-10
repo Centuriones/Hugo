@@ -45,4 +45,24 @@ SELECT id FROM users WHERE email=’email’ AND password=’password’ OR 1=1�
 
 Since the login will try to find in their database if the following email and password was the one you inputed. If that isn't found it will run the 1=1-- command. Since an OR statement only needs to be 1 of the following statements to be true. It will treat your code as a valid statement and log you in. 
 
-![Picture](/images/SQL Injection.PNG)
+![Picture](/images/SQL_Injection.PNG)
+
+After learning this, I decided to try some other ways to get admin rights. Corey my group member showed me a shorter way to gain admin rights which was the following:
+
+![Picture](/images/SQL_Injection_2.PNG)
+
+This works aswell because the following query is just asking to check if the OR statement 1=1 is true. And since 1=1 is true, it gives you admin access.
+
+One way I found on my own, is just writing the admin's email. I found an order confirmation which was done by an admin. I found this by acessing their FTP server. 
+
+![Picture](/images/ftp1.PNG)
+
+Just by writing a simple query:
+
+```MySQL
+admin@juice-sh.op';
+```
+
+So since the email is true, it allows me to access the admins email. Giving me admin rights!
+
+![Picture](/images/SQL_Injection_3.PNG)
