@@ -1,7 +1,13 @@
 # Week 1
 
-### Reflection on 7/02/2019
 
+### Reflection on 4/02/2019
+
+Today we got introduced to the studio, and how the studio was going to run in the next 4 weeks. I felt very excited to start this studio as it will help me learn more of the basics and help me understand where I need to go for this year. I meet my team, and we were assigned a presentation to do. We spent an hour researching what topics we would like to talk about regarding cyber security. 
+
+
+
+### Reflection on 6/02/2019
 
 Today was the day to do our presentations. I was feeling confident in our teams presentation. But once it came to our presentation, my group did well proud of our contnet and what we spoke about. I felt like my part was lacking as I did research my topic but due to my presentations skills it felt like I didn't know what I was  speaking about. Larry brought this up, as he was wanted to know if I knew what i was talking about or not. This just shows how much confidence and practicing what you're saying comes into a presentaiton. Since i was stuttering and feeling nervous about the presentation it took the better at me. Even though i did my research, it didnt show in the presentation. So for the next presentation, I need to practicing my presention skills, ways i can do this is speaking to myself or  practicing infront of family and getting pointers from there. 
 
