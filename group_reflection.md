@@ -2,6 +2,10 @@
 
 # Group Reflection
 
+[Week 1](./week1.md)
+[Week 2](./week2.md)
+[Group Reflection](./group_reflection.md)
+
 ## Bare Minimum Bandits
 
 #### Sprint 1 10/02/2019
