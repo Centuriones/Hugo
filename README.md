@@ -1,5 +1,5 @@
 # Welcome to my Portfolio!
-[Home](./home.md)
+[Home](./README.md)
 [Week 1](./week1.md)
 [Week 2](./week2.md)
 [Group Reflection](./group_reflection.md)
