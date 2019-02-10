@@ -36,3 +36,13 @@ SQL injection I did eventually after a while, and some research was the followin
 ```MySQL
 1' OR 1=1--
 ```
+
+The following query will be sent to the database server and be treated as:
+
+```MySQL
+SELECT id FROM users WHERE email=’email’ AND password=’password’ OR 1=1’
+```
+
+Since the login will try to find in their database if the following email and password was the one you inputed. If that isn't found it will run the 1=1-- command. Since an OR statement only needs to be 1 of the following statements to be true. It will treat your code as a valid statement and log you in. 
+
+![Picture](/images/SQL Injection.PNG)
