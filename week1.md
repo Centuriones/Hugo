@@ -58,6 +58,7 @@ One way I found on my own, is just writing the admin's email. I found an order c
 ![Picture](/images/ftp1.PNG)
 
 ![Picture](/images/Order.PNG)
+
 Just by writing a simple query:
 
 ```MySQL
