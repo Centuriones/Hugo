@@ -18,7 +18,9 @@ Ethical hacking and bug bounties are impacting stakeholders as they allow people
 
 The security researcher must report the vulnerability, and disclose the company privately, with detailed response on how they found the vulnerability, and how to fix the problem. This will benefit the stakeholder a lot as if their system does get targeted in the future, they don't get any sensitive data leaked. It is also better that they get exploited my security researchers who are doing their job, and wanting to better strengthen the web application. Then by a hacker exploiting the vulnerabilities and using that information for bad.
 
-An example that could be I have done, which can’t is rarely done know day. Is the SQL injection on the Juice Shop last week. If a hacker finds this out and exploits the SQL database and gains admin access, he can then jump on and try to own the whole server, and get a lot of sensitive information about clients, credit card numbers etc. But if a security research finds this exploit and discloses it to the company and patch it. It will greatly help the web application. 
+![Picture](/images/SQL_Injection_3.PNG)
+
+An example that could be used is the SQL injection on the Juice Shop last week. If a hacker finds this out and exploits the SQL database and gains admin access, he can then jump on and try to own the whole server, and get a lot of sensitive information about clients, credit card numbers etc. But if a security research finds this exploit and discloses it to the company and patch it. It will greatly help the web application. 
 
 Ethical Hacking and bug bounties are greatly needed to help strengthen stakeholders to better their web app security to fix their mistakes so hackers can’t exploit them!
 
