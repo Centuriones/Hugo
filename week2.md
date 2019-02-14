@@ -4,10 +4,17 @@
 [Group Reflection](./group_reflection.md)
 
 
+### Problem Statement:
+
+
 
 ### 11/02/2019 Reflection
 
-Link to Natas Writeups: https://hackmd.io/s/ByI4tVA4V
+Today, we had a presentation from Luke, explaining his view on red teaming and his idea of what you should have when doing penetrating testing. He made it clear that we need to have an Ethical mindset, not just penetrating testing because its all about the rush about getting inside the web application. Luke explains that we need to get into the habit and to test our abilities and think “How does this site/web application work in its entirely?” and “What are the possible paths, you can take?”.  Also, he reinforces the statement that we need to always maintain this attitude, to always challenge yourself. There is no such thing as a perfect system, or undetectable exploits. 
+
+After saying this, I was practicing some Natas challenges trying to learn Web App penetration testing. All my write ups and thoughts are written on a separate document.
+
+Natas Writeups: https://hackmd.io/s/ByI4tVA4V
 
 
 ### Homework for Wednesday
