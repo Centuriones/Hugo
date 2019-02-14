@@ -3,7 +3,7 @@
 [Week 2](./week2.md)
 [Group Reflection](./group_reflection.md)
 
-Problem Statement:
+## Problem Statement:
 
 A realistic goal I would like to set myself is gaining a better understanding of Web Application penetration testing. I would like to develop these core skills first and playing around with these applications will help me develop the fundamentals to go into other challenges and then eventually start doing some boxes. Practicing on these challenges helps emulate the feeling on what I would do when going into a penetrating test on a web application and what patterns I should be looking for to exploit or follow to penetrate the application.
 I would like to complete the majority of the Natas challenges, and complete write ups for them. Detailing my thoughts, struggles and how I completed the challenge and my logic through the whole challenge.
