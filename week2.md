@@ -30,6 +30,21 @@ The link to the article:
 https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html
 
 
+### 15/02/2019 Reflection
+
+We had presentations today. Had alot of troubles coming up with ideas and things I could talk about, as i was unperpared for talking about what I wanted to do. The whole goal of these presentaions is that the tutors wanted to emulate to us what it is like in the real world. Where you have little time to present to the stakeholders about the security threats to their web application.
+
+Regarding my presentation, I wanted to show my findings with Natas challanges what these problems can do to stakeholders if they don't take notice, and patch these issues. Linking back to the problem statement saying that I wanted to emulate what it is like to do a web pen test, as I do want to get better at web pen. But also keeping the words that Luke said in his presentation on Monday. Overall it went well. I got better at my presentation skills, felt like I wasn't stuttering as much, I was straight forward and to the point. Wanted to get some points through to stakeholders about their problems.
+
+The link to the presentation can be found below.
+https://docs.google.com/presentation/d/1SjnxprewgpmBrrz1g92kefSFoS3Y2ug_GXTbUgUNRCU/edit?usp=sharing
+
+**Did I meet my problem statement this week?**
+
+I did meet my problem statement this week. I wanted to focus on core skills for web applicaiton pentesting. Focusing on how things work and what I want to work on in the future. The natas challanges were surprisingly difficult. I've done a writeup for those challanges, writing about my thoughts and how I solved them. Having not much experince in web application pentesting, I learnt alot of how headers work and how to manipulate text fields in websites. It was a very fun experince and I would like to pursue this later on. 
+
+**How**
+
 ### Homework for Wednesday
 
 Ethical hacking and bug bounties are impacting stakeholders as they allow people who have these hacking skills and people who hunt through bugs, go through their system and find vulnerabilities. Businesses that go through these bug bounty programs looking for people to attack their web application, with the intent to find any bugs and vulnerabilities. As stated in the bug crowd responsible disclose.
