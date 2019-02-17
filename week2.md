@@ -32,18 +32,28 @@ https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-sto
 
 ### 15/02/2019 Reflection
 
-We had presentations today. Had alot of troubles coming up with ideas and things I could talk about, as i was unperpared for talking about what I wanted to do. The whole goal of these presentaions is that the tutors wanted to emulate to us what it is like in the real world. Where you have little time to present to the stakeholders about the security threats to their web application.
+We had presentations today. Had a lot of troubles coming up with ideas and things I could talk about, as I was unprepared for talking about what I wanted to do. The whole goal of these presentations is that the tutors wanted to emulate to us what it is like in the real world. Where you have little time to present to the stakeholders about the security threats to their web application.
 
-Regarding my presentation, I wanted to show my findings with Natas challanges what these problems can do to stakeholders if they don't take notice, and patch these issues. Linking back to the problem statement saying that I wanted to emulate what it is like to do a web pen test, as I do want to get better at web pen. But also keeping the words that Luke said in his presentation on Monday. Overall it went well. I got better at my presentation skills, felt like I wasn't stuttering as much, I was straight forward and to the point. Wanted to get some points through to stakeholders about their problems.
+Regarding my presentation, I wanted to show my findings with Natas challenges what these problems can do to stakeholders if they don't take notice, and patch these issues. Linking back to the problem statement saying that I wanted to emulate what it is like to do a web pen test, as I do want to get better at web pen. But also keeping the words that Luke said in his presentation on Monday. Overall it went well. I got better at my presentation skills, felt like I wasn't stuttering as much, I was straight forward and to the point. Wanted to get some points through to stakeholders about their problems.
 
 The link to the presentation can be found below.
 https://docs.google.com/presentation/d/1SjnxprewgpmBrrz1g92kefSFoS3Y2ug_GXTbUgUNRCU/edit?usp=sharing
 
 **Did I meet my problem statement this week?**
 
-I did meet my problem statement this week. I wanted to focus on core skills for web applicaiton pentesting. Focusing on how things work and what I want to work on in the future. The natas challanges were surprisingly difficult. I've done a writeup for those challanges, writing about my thoughts and how I solved them. Having not much experince in web application pentesting, I learnt alot of how headers work and how to manipulate text fields in websites. It was a very fun experince and I would like to pursue this later on. 
+I did meet my problem statement this week. I wanted to focus on core skills for web application pentesting. Focusing on how things work and what I want to work on in the future. The natas challenges were surprisingly difficult. I've done a writeup for those challenges, writing about my thoughts and how I solved them. Having not much experience in web application pen-testing, I learnt a lot of how headers work and how to manipulate text fields in websites. It was a very fun experience and I would like to pursue this later on. 
 
-**How**
+**What I want to get out of this unit (Reflection)**
+
+This section is just going over the stuff I've written about things I want to get better at and develop skills upon. One of the points was enumeration. With my time with natas, I fell through a lot of rabbit holes and things I thought I was supposed to do but was completely wrong. This stuff does come with experience but I felt like I'm slowly seeing the patterns in code and what I need to do. Googling has been very good as I know what I want to do to get the flag its just a matter of how to get there. Overall I'm proud to say that I am getting better at enumeration!
+
+My technical knowledge has gotten better as stated above. I am noticing patterns and understanding things like PHP script and how it is written. One thing I was proud of is noticing for one of the challenges where a secret was encoded. Without the practice I've done, I wouldn't have picked it off and understand how to solve it (did cryptography for a bit, and I understood immediately what to do). 
+
+![Picture](./images/Capture.PNG)
+
+I have also been practising a lot and enjoying a lot of playing with these challenges and learning as much as I can. This was one of the things I wanted to do more. I do have some goals I have in mind, which I want to take after the course is over, further improving on my skills. I think I haven't been doing is using Notion more often. I will put more emphasis in the coming week, to help me get more organized. Note-taking was also another thing I wanted to focus on, I have been doing write-ups. Been getting better and the hang of how writeups work which is good.
+
+And finally, presentation skills. As I touched upon earlier. This weeks presentation went well. I was very unprepared which is something I need to work on. But other than that, I felt like my presentation flowed very well, explaining was good (could use some work) and talking, in general, was better than Week 1's presentation. Overall I'm proud of my improvements. 
 
 ### Homework for Wednesday
 
