@@ -14,7 +14,7 @@ Today, we had a presentation from Luke, explaining his view on red teaming and h
 
 After saying this, I was practicing some Natas challenges trying to learn Web App penetration testing. All my write ups and thoughts are written on a separate document.
 
-Natas Writeups: https://hackmd.io/s/ByI4tVA4V
+``` Natas Writeups: https://hackmd.io/s/ByI4tVA4V ```
 
 ### 13/02/2019 Reflection
 
@@ -37,7 +37,7 @@ We had presentations today. Had a lot of troubles coming up with ideas and thing
 Regarding my presentation, I wanted to show my findings with Natas challenges what these problems can do to stakeholders if they don't take notice, and patch these issues. Linking back to the problem statement saying that I wanted to emulate what it is like to do a web pen test, as I do want to get better at web pen. But also keeping the words that Luke said in his presentation on Monday. Overall it went well. I got better at my presentation skills, felt like I wasn't stuttering as much, I was straight forward and to the point. Wanted to get some points through to stakeholders about their problems.
 
 The link to the presentation can be found below.
-https://docs.google.com/presentation/d/1SjnxprewgpmBrrz1g92kefSFoS3Y2ug_GXTbUgUNRCU/edit?usp=sharing
+``` https://docs.google.com/presentation/d/1SjnxprewgpmBrrz1g92kefSFoS3Y2ug_GXTbUgUNRCU/edit?usp=sharing ```
 
 **Did I meet my problem statement this week?**
 
