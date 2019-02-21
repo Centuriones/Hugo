@@ -3,7 +3,7 @@
 [Home](./README.md)
 [Week 1](./week1.md)
 [Week 2](./week2.md)
-[Week 2](./week3.md)
+[Week 3](./week3.md)
 [Group Reflection](./group_reflection.md)
 
 
@@ -48,3 +48,7 @@ We also done our presentation today, with the preperation on Tuesday with Jason,
 ![Picture](images/cyberchef.PNG)
 
 I also was working on my box, Mr Robot. I ended up getting root to Mr Robot. This is my first box I have ever completeed. All my thoughts, my challanges and the writeup itself will be in the deliverable link.
+
+
+### Deliverable 
+Mr.Robot Writeup: https://hackmd.io/s/HJIkTGnrE#
