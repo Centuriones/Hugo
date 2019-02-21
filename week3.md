@@ -20,8 +20,7 @@ Today we also went into groups to work on our presentation for Wednesday. We kep
 
 We had to make a presentaion on a tool that we researched, showing the capabilities of the tool and what it is used for and how it is used, and a demo on how it is used. We all decided to use the tools Wireshark (packet sniffing) and CyberChef (cryptographic functions). Both of these tools can be used in conjunction with each other to find passwords that has been encrypted (an example).
 
-![Picture](/images/1.PMG)
-
+![Picture](/images/1.PNG)
 
 ### Tuesday 19/02/2019
 
