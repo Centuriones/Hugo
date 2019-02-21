@@ -29,5 +29,5 @@ Tuesday, Jason and I decided to come to uni early to start working on our presen
 
 Later, we went to SecTalks at Barangaroo, in the PWC office. Edward Farrel. He talked about zigbee packets and the 802.15.4 protocol, and what it does. He then goes on to his examples where he made a little machine to track zigbee packets. He explains the frequency he needs and where the packets are coming through. This got me intrested in hardware hacking and how wireless protocols work. I went up to Edward, and asked him some questions on how to get into hardware hacking  and understanding the protocol he was on and branch off doing my own research. He gave me his RTL-SDR. And told me to learn how this works and play around with it. 
 
-![Picture](/images/gift.PMG)
+![Picture](/images/gift.PNG)
 
