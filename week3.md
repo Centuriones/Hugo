@@ -15,3 +15,10 @@ Oliver's goals for this week was to understand how to gain shell access on his b
 
 ![Picture](/images/sda.PNG)
 
+After this, we watched Darsh doing a workshop on how to go from boot2root. While watching Darsh, I was figuring out what box to do and try to replicate it. I ended up starting the box called "Mr-Robot", a boot2root based on the TV-Series. This was my deliverable. I wanted to crack the box by the end of the week, and explain how I did it!
+
+Today we also went into groups to work on our presentation for Wednesday. We kept the same group as our first week presentaion but we added 2 new group members, Jason and Andre. These guys I have worked previsouly as we competed together as a team in CysCa.
+
+We 
+
+![Picture](/images/1.PMG)
