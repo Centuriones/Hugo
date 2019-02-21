@@ -8,7 +8,6 @@
 
 
 ### Monday 18/02/2019
-
 Today we done our free for all to try and get to know more people, and discussing what our goals were for the week. As talking to Oliver, we had similar ideas on what our goals was, and where we were up to. Oliver was doing the natas challanges and bandit levels. I was doing the same thing and we were on the same challanges. We talked on how we solved our challanges, it was assuring that I was talkign to someone who was on the same page and learning experince as I was. 
 
 Oliver's goals for this week was to understand how to gain shell access on his box, and to get better at google searches. As he found that he also tends to not search for the right thing and finding the wrong information. My goals for this week was to get up to the goal on natas and bandit. Learn more about privilege escalation, how it works and some ways to do it, and get a box. 
@@ -19,6 +18,16 @@ After this, we watched Darsh doing a workshop on how to go from boot2root. While
 
 Today we also went into groups to work on our presentation for Wednesday. We kept the same group as our first week presentaion but we added 2 new group members, Jason and Andre. These guys I have worked previsouly as we competed together as a team in CysCa.
 
-We 
+We had to make a presentaion on a tool that we researched, showing the capabilities of the tool and what it is used for and how it is used, and a demo on how it is used. We all decided to use the tools Wireshark (packet sniffing) and CyberChef (cryptographic functions). Both of these tools can be used in conjunction with each other to find passwords that has been encrypted (an example).
 
 ![Picture](/images/1.PMG)
+
+
+### Tuesday 19/02/2019
+
+Tuesday, Jason and I decided to come to uni early to start working on our presentaions and figure out our parts and send messages to the group, directing them on what they can do, and provide help to them. After this I started working on the box, "Mr-Robot". I got the first key which I am happy about. Wasn't that difficult due to the help of the Natas challanges from last week. 
+
+Later, we went to SecTalks at Barangaroo, in the PWC office. Edward Farrel. He talked about zigbee packets and the 802.15.4 protocol, and what it does. He then goes on to his examples where he made a little machine to track zigbee packets. He explains the frequency he needs and where the packets are coming through. This got me intrested in hardware hacking and how wireless protocols work. I went up to Edward, and asked him some questions on how to get into hardware hacking  and understanding the protocol he was on and branch off doing my own research. He gave me his RTL-SDR. And told me to learn how this works and play around with it. 
+
+![Picture](/images/gift.PMG)
+
