@@ -61,4 +61,6 @@ I was speaking to Frank about what he has completed and his troubles throughout 
 
 With my whole reflection of my week. I’m very proud of what I’ve achieved. This week I have been able to go from boot to root on the box Mr. Robot. This was the first box I have completed. As I am very proud, I did realise how much I really do cyber security, and how much I really want to push myself to do the best I can and learn as much as possible. Learning how privilege escalation works and the steps I need to do to get there was very interesting and gave me something new to work towards to understand how it works. I’ve also learnt how to inject web shells and reverse shells in web servers due to my time with the box.
 
+![Picture](/images/pentester.PNG)
+
 Saying this, I did start on another box on HTB called curling. Regarding that box, I am using my knowledge of Mr. Robot to give me an understanding to where I need to look and how to get to the place I need to go. But knowing that not every box is the same, I need to learn and find new ways to get where I need to go. That’s why I am also proud to say that my enumeration has grown. This is due to me doing the Mr. Robot box. But I still have a long way to go, and doing Mr. Robot was a good stepping stone for me to start going through some HTB boxes and start pushing my knowledge to the next level.
