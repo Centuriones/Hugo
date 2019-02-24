@@ -1,4 +1,4 @@
-#Week 3
+# Week 3
 
 [Home](./README.md)
 [Week 1](./week1.md)
@@ -56,6 +56,8 @@ Mr.Robot Writeup: https://hackmd.io/s/HJIkTGnrE#
 ### Friday 22/02/2019 
 
 I was speaking to Frank about what he has completed and his troubles throughout this week. He states that he is still learning HTB (hack the box) and has tried some boxes but hasn’t had any luck as he doesn’t know where to go. He has also tried Mr. Robot box and still having trouble with them. He says that he did learn a lot though these boxes. 
+
+![Picture](/images/friday1.PNG)
 
 With my whole reflection of my week. I’m very proud of what I’ve achieved. This week I have been able to go from boot to root on the box Mr. Robot. This was the first box I have completed. As I am very proud, I did realise how much I really do cyber security, and how much I really want to push myself to do the best I can and learn as much as possible. Learning how privilege escalation works and the steps I need to do to get there was very interesting and gave me something new to work towards to understand how it works. I’ve also learnt how to inject web shells and reverse shells in web servers due to my time with the box.
 
