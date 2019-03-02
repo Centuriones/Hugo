@@ -4,7 +4,9 @@
 [Week 1](./week1.md)
 [Week 2](./week2.md)
 [Week 3](./week3.md)
+[Week 4](./week4.md)
 [Group Reflection](./group_reflection.md)
+
 
 ### Reflection on 4/02/2019
 
