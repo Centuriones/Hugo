@@ -46,6 +46,20 @@ Today was our presentation. Very intrested in what the other studios have produc
 
 ![Picture](/images/friday1.jpg)
 
-We also presented infront of academics, explaing why we loved doing this unit and what we got out of the unit. The link to the presentation below
+We also presented infront of academics, explaing why we loved doing this unit and what we got out of the unit. Beata Francis also wanted to record our thoughts on the unit, and what we got out of it. Not only individually but as a group and what industry experince this unit gave for us.  
 
+The link to the presentation below.
 [MIDAS 2019 Presentation](https://docs.google.com/presentation/d/15R4CfAy6mqTa8u99pGQ1XdQnMTgk63jD6Y0Bcu0OMU8/edit?usp=sharing)
+
+
+## Conclusion
+
+Overall this unit pushed me futher that I've ever gone. I learnt so much from this unit, like privlage esculation, web application penertration testing and much more. This unit also allowed me to beat my first box, which was an achievement I never thought I can complete. 
+
+Now did I complete the things I wanted to get out of this unit, from Week 1? I believe so, the things I wanted to get out of the summer studio I have completed or started creating the foundation to build upon it in my spare time. Things like enurmation and technical knowledge I have created the foundation just by practicing and playing the hack the box challanges. 
+
+Now where do I go from here?
+
+I believe that if I play the hack the box challanges reguarly and write reports on them when they've been retired, will be a good steping point for me. As it will teach me how to properly write reports and writeups, but also teachs me how to get better and privlage esculation. Attempting more CTF's escpecially do the fields that I find intresting (Cryptography and Reverse Enginerering). Since this unit gave me a good framework to build my skills up to hopefully get into the industry.
+
+![Picture](/images/midas2.PNG)
