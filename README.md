@@ -6,7 +6,6 @@
 [Week 4](./week4.md)
 [Group Reflection](./group_reflection.md)
 
-![Picture](/images/crop.gif)
 
 This portfolio contains my reflections and my findings while participating **Cyber Security: An Offensive Mindset**.
 
