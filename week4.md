@@ -92,6 +92,6 @@ Now did I complete the things I wanted to get out of this unit, from Week 1? I b
 
 I believe that if I play the hack the box challenges regularly and write reports on them when they've been retired, will be a good stepping point for me. As it will teach me how to properly write reports and writeups, but also teaches me how to get better and privilege escalation. Attempting more CTF's especially do the fields that I find interesting (Cryptography and Reverse Engineering). Since this unit gave me a good framework to build my skills up to hopefully get into the industry.
 
-Just want to say thank you for this unit. I've learnt a lot from doing this unit and enjoyed every second for it. Thanks for pushing me to the next level and I'm ready to keep going to better myself as a penetration tester!
+Just want to say thank you for this unit. I've learnt a lot from doing this unit and enjoyed every second for it. Thanks for pushing me to the next level and I'm ready to keep going to better myself as a security engineer!
 
 ![Picture](/images/midas2.png)
